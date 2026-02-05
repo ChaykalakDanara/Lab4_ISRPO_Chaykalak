@@ -1,0 +1,15 @@
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\bin\Debug\net9.0\server.exe
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\bin\Debug\net9.0\server.deps.json
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\bin\Debug\net9.0\server.runtimeconfig.json
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\bin\Debug\net9.0\server.dll
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\bin\Debug\net9.0\server.pdb
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\obj\Debug\net9.0\server.sourcelink.json
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\obj\Debug\net9.0\server.dll
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\obj\Debug\net9.0\refint\server.dll
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\obj\Debug\net9.0\server.pdb
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+C:\Users\chayk\OneDrive\Документы\Lab4_ISRPO_Chaykalak\server\obj\Debug\net9.0\ref\server.dll
