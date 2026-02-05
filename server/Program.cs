@@ -17,6 +17,25 @@ class Program
             Console.WriteLine("4 — Выход");
             Console.Write("Выберите пункт: ");
             string choice = Console.ReadLine();
+
+            switch (choice)
+            {
+                case "1":
+                    Console.WriteLine("ФИО: Чайкалак Данара Рустамовна");
+                    break;
+                case "2":
+                    Console.WriteLine("Группа: ИСП-231");
+                    break;
+                case "3":
+                    Console.WriteLine($"Дата и время:{DateTime.Now}");
+                    break;
+                case "4":
+                    Console.WriteLine("Выход");
+                    return;
+                default:
+                    Console.WriteLine("Неверный ввод. Попробуйте снова.");
+                    break;
+            }
         }
     }
 }
