@@ -49,7 +49,7 @@ git status
 | `git push` | Отправляет на GitHub | `git push origin main` |
 
 # Картинка из папки repo/
-![Картинка из repo/](/repo/image1_Chaykalak.png)
+![Картинка из (repo/)](/repo/image1_Chaykalak.png)
 
 # Ссылки
 - [внешняя cсылка](https://avatars.mds.yandex.net/i?id=ce1229b1a3c81455a9ecb171a1dcf485_l-9145401-images-thumbs&n=13)
