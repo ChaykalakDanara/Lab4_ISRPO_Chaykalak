@@ -58,7 +58,16 @@ git status
 - [x] Сделано
 - [ ] Не сделано
 # Alert-блоки GitHub
-[!NOTE] Пример Alert-блока в GitHub
+> [!NOTE]
+> Это простая заметка. 
+> [!TIP]
+> Полезный совет.
+> [!IMPORTANT]
+> Важная информация.
+> [!WARNING]
+> Предупреждение.
+> [!CAUTION]
+> Будьте осторожны.
 # Inline LaTeX
 $a^2 + b^2 = c^2$
 # Block LaTeX
