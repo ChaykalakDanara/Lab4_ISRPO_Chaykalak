@@ -52,8 +52,8 @@ git status
 ![Картинка из repo/](/repo/image1_Chaykalak.png)
 
 # Ссылки
-- [внешняя](https://avatars.mds.yandex.net/i?id=ce1229b1a3c81455a9ecb171a1dcf485_l-9145401-images-thumbs&n=13)
-- [внутреняя](/README.md)
+- [внешняя cсылка](https://avatars.mds.yandex.net/i?id=ce1229b1a3c81455a9ecb171a1dcf485_l-9145401-images-thumbs&n=13)
+- [внутреняя ссылка](/README.md)
 # Чекбоксы
 - [x] Сделано
 - [ ] Не сделано
